@@ -1,4 +1,2 @@
 #!/bin/bash
-maktmp -d
-maktemp -d
 mktemp -d
